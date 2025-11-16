@@ -138,5 +138,3 @@ http://<EC2_PUBLIC_IP>:8080
 Mihir Ginde
 
 ---
-
-Just ask.
